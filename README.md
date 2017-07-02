@@ -7,7 +7,7 @@
 
 [Current app deployment](https://cs169-faludi-proj.herokuapp.com/)
 
-[Pivitol Tracker Project](https://www.pivotaltracker.com/n/projects/1886787)
+[Pivitol Tracker Project](https://www.pivotaltracker.com/n/projects/2070305)
 
 
 This website is meant to facilitate engineers in measuring the environmental impact of their products.
