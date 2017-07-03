@@ -1,5 +1,11 @@
-[Entry Video] (https://youtu.be/Xywv8UHreUY)
 
-Screencasts:
-**Add here**
-[Michael] (https://youtu.be/2UjHC4aoob8)
+# Iteration 0
+
+## Entry Video
+
+[Entry Video (YouTube)](https://youtu.be/Xywv8UHreUY)
+
+## Screencasts Project Setup
+
+* [Michael](https://youtu.be/2UjHC4aoob8)
+* [Mehdi](https://youtu.be/UkvJqnB7mHk)
