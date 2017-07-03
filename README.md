@@ -11,6 +11,6 @@ A simple, easy to use UI will allow the users to easily add information about th
 
 [Current app deployment on Heroku](https://cs169-su2017-faludi-design.herokuapp.com/)
 
-[Pivitol Tracker Project](https://www.pivotaltracker.com/n/projects/2070305)
+[Pivotal Tracker Project](https://www.pivotaltracker.com/n/projects/2070305)
 
 [Faludi Design's website](http://www.faludidesign.com/)
