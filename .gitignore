@@ -22,3 +22,7 @@
 
 # Ignore RubyMine files
 .idea
+
+# Ignore RVM gemset files
+.ruby-gemset
+.ruby-version
